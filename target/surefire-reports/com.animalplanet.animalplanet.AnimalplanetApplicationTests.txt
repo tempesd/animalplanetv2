@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.animalplanet.animalplanet.AnimalplanetApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.68 s -- in com.animalplanet.animalplanet.AnimalplanetApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.431 s -- in com.animalplanet.animalplanet.AnimalplanetApplicationTests
